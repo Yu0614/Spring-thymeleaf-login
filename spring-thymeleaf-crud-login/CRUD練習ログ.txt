@@ -1,0 +1,17 @@
+
+システム設定
+
+・基本設定　https://qiita.com/yuukieiu/items/bc8179873b859e3c7741
+・自動ダウンロードの停止　　http://logroid.blogspot.jp/2012/05/eclipse-no-repository-found-containing.html
+・log4jの追加　
+・lombookの追加
+・Mybatis（マッパー） DBeaber（ビューワ）の追加
+・Git　http://tikemin.hatenablog.com/entry/2013/12/15/223508
+
+CRUD
+
+参考：
+SpringBoot + JPA + Thymeleafで簡単なCRUDを作る①～HelloWorldまで～ - Qiita
+https://qiita.com/ozaki25/items/74f8895db109290e75da
+SpringBoot + JPA + Thymeleafで簡単なCRUDを作る②～画面と機能作成まで～ - Qiita
+https://qiita.com/ozaki25/items/3b348874b6db5ab4f04f
